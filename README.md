@@ -8,9 +8,9 @@ and orchestration.
 
 For the moment, it includes:
 
-- Introduction to Docker and Containers,
-- Container Orchestration with Docker Swarm,
-- Container Orchestration with Kubernetes.
+- [Introduction to Docker and Containers](slides/intro-selfpaced.yml.html),
+- [Container Orchestration with Docker Swarm](slides/swarm-selfpaced.yml.html),
+- [Container Orchestration with Kubernetes](slides/kube-selfpaced.yml.html).
 
 These materials have been designed around the following
 principles:
